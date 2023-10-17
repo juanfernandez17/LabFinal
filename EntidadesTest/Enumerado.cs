@@ -1,0 +1,1 @@
+﻿public enum Estado {  Nuevo, Seminuevo, Usado }

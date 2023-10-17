@@ -1,0 +1,12 @@
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\bin\Debug\net6.0\EntidadesTest.deps.json
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\bin\Debug\net6.0\EntidadesTest.dll
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\bin\Debug\net6.0\EntidadesTest.pdb
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.csproj.AssemblyReference.cache
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.AssemblyInfoInputs.cache
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.AssemblyInfo.cs
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.dll
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\refint\EntidadesTest.dll
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\EntidadesTest.pdb
+C:\Users\Juan\source\repos\FernandezJuan.Lab2\EntidadesTest\obj\Debug\net6.0\ref\EntidadesTest.dll
